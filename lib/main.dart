@@ -3,7 +3,7 @@ import 'package:local_storage/database/views/main_board.dart';
 import 'package:local_storage/sharePreference/view/auth/signin_acc_screen.dart';
 
 void main(List<String> args) {
-  runApp(MyApp());
+  runApp( const MyApp());
 }
 
 class MyApp extends StatelessWidget {
